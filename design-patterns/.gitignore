@@ -1,0 +1,15 @@
+*.iml
+bin/
+.gradle
+gradle/
+gradlew
+gradlew.bat
+build.gradle.kts
+settings.gradle.kts
+gradle.properties
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+out/
